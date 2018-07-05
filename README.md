@@ -1,0 +1,2 @@
+# My-Beat
+My beat is the most practical metronome nowadays. It is suitable for all playing instruments and all musicians. It can not only help you master daily rhythm exercises, but also be an essential tool for advanced training. It is minimalist and yet The unique and humanized way is elegant for you to make the rhythm and rhythm control so convenient and simple, anytime, anywhere, wonderful.  Special feature: - Accurate metronome engine - Different speeds and rhythms for you to choose from - Support 14 different sounds
